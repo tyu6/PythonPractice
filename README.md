@@ -13,4 +13,4 @@ renren_login.py
 人人网登陆器
 
 simplechat.py
-建议单机聊天对话框
+建立单机聊天对话框
