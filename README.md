@@ -3,6 +3,9 @@ PythonPractice
 baidu_result_filter.py 
 对百度的任意搜索结果加关键字进行过滤
 
+jingdong_stockout_list.py
+爬取京东商城百万商品的缺货记录
+
 get_nuaa_news.py
 获取南京航空航天大学教务处新闻
 
