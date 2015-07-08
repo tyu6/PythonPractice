@@ -1,5 +1,8 @@
 PythonPractice
 ==============
+relatedword_base_on_baidu_result.py
+基于百度搜索结果的高频词词云展示
+
 baidu_result_filter.py 
 对百度的任意搜索结果加关键字进行过滤
 
@@ -18,5 +21,20 @@ renren_login.py
 simplechat.py
 建立单机聊天对话框
 
-relatedword_base_on_baidu_result.py
-基于百度搜索结果的高频词词云展示
+=============
+nike_shoes.py
+#Nike官网抢鞋神器/抢鞋机器人
+=============
+###程序主要分为两大功能：<br>
+一、自动监控功能：对Nike官网的主页或鞋子单页以及微博页面进行监控。<br>
+二、自动下单功能：对确定要购买的已监控的鞋子进行监控，一放出新鞋码便自动加入购物车。<br>
+
+##TO-DO-List：<br>
+1.官方微博监控<br>
+2.商城页面监控<br>
+3.商品货号监控<br>
+4.商品标题监控<br>
+5.首页图片监控<br>
+6.补货地址监控 ok!<br>
+7.用户账户登录<br>
+8.加入购物车<br>
