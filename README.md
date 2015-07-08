@@ -17,3 +17,6 @@ renren_login.py
 
 simplechat.py
 建立单机聊天对话框
+
+relatedword_base_on_baidu_result.py
+基于百度搜索结果的高频词词云展示
